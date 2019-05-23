@@ -6,7 +6,7 @@
  * Time: 11:42 AM
 
  */
-require 'lib/encdec_paytm.php';
+require 'lib/config_paytm.php';
 require 'lib/encdec_paytm.php';
 
 
